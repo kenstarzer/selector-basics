@@ -1,9 +1,7 @@
-# Website Template
+# CSS Selector Basics Tutorial
 
-Fork and use this template repo (a.k.a. "boilerplate") for any web project
+Fork and use this template repo for the tutorial.
 
-## Use this repo
+## Selectors: Identifying What to Style
 
-1. Click "Use this template"
-1. Choose either "Create a new repository" or "[Open in a Codespace](https://codespaces.new/criticalwebdesign/website-template)"
 
